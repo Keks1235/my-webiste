@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DHELPS – Digitale Services</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
+        header { background: #222; color: white; padding: 20px; text-align: center; }
+        main { padding: 40px; max-width: 800px; margin: auto; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        section { margin-bottom: 40px; }
+        h2 { color: #333; }
+        .cta { background: #28a745; color: white; padding: 15px; text-align: center; border-radius: 5px; text-decoration: none; display: inline-block; }
+        footer { background: #eee; text-align: center; padding: 20px; margin-top: 40px; font-size: 14px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Willkommen bei DHELPS</h1>
+    <p>Texter | Designer | Berater – Digital und persönlich</p>
+</header>
+
+<main>
+    <section>
+        <h2>Was ich anbiete</h2>
+        <ul>
+            <li>Professionelle Texte für Websites, Blogs und Social Media</li>
+            <li>Grafikdesign für Logos, Flyer, Posts</li>
+            <li>1:1 Beratung (Online-Calls über Zoom)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Warum ich?</h2>
+        <p>Ich kombiniere Kreativität mit Erfahrung. Jedes Projekt wird individuell abgestimmt. Keine Massenware – sondern Qualität.</p>
+    </section>
+
+    <section>
+        <h2>Jetzt anfragen</h2>
+        <a href="mailto:deine.email@example.com" class="cta">Unverbindlich Kontakt aufnehmen</a>
+    </section>
+
+    <section>
+        <h2>Unterstützen oder bezahlen</h2>
+        <a href="https://paypal.me/DHELPS" class="cta" target="_blank">Jetzt mit PayPal bezahlen</a>
+    </section>
+</main>
+
+<footer>
+    © 2025 DHELPS · Impressum · Datenschutz
+</footer>
+
+</body>
+</html>
